@@ -6,7 +6,7 @@
 - Pursuing 6-month Artificial Intelligence Certificate – Digital Regenesys(https://www.digitalregenesys.com/online-courses/artificial-intelligence)  
   - Foundational: Python for AI, visualizations (Seaborn/Matplotlib), EDA (Telco Churn & Bike Sales projects)  
   - Intermediate: Feature engineering & selection, regression (Insurance charges prediction), classification (Diabetes with zero-value handling)  
-  - Advanced: In progress (not started yet)
+  - Advanced: In progress
 
 Hands-on projects from structured training in EDA, regression, classification using Python.
 
