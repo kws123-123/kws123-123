@@ -1,16 +1,32 @@
-## Hi there 👋
+# Khatra Shaban
 
-<!--
-**kws123-123/kws123-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science & AI Learner** | Nairobi, Kenya
 
-Here are some ideas to get you started:
+- Completed 3-month Certificate in Data Science – Global Technical College  
+- Pursuing 6-month Artificial Intelligence Certificate – Digital Regenesys  
+  - Foundational: Python for AI, visualizations (Seaborn/Matplotlib), EDA (Telco Churn & Bike Sales projects)  
+  - Intermediate: Feature engineering & selection, regression (Insurance charges prediction), classification (Diabetes with zero-value handling)  
+  - Advanced: In progress (not started yet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hands-on projects from structured training in EDA, regression, classification using Python.
+
+## Key Projects
+- **[insurance-prediction](https://github.com/kws123-123/insurance-prediction)**  
+  Linear regression to predict medical insurance charges (Intermediate level). Feature engineering + model evaluation.
+
+- **[diabetes-logistic-regression](https://github.com/kws123-123/diabetes-logistic-regression)**  
+  Logistic regression baseline on diabetes dataset (Intermediate level). Proper handling of invalid zeros.
+
+- **[AI-Introductory-Telco-Churn-EDA](https://github.com/kws123-123/AI-Introductory-Telco-Churn-EDA)**  
+  Exploratory Data Analysis on Telco customer churn (Foundational level).
+
+- **[bike-sales-eda](https://github.com/kws123-123/bike-sales-eda)**  
+  Sales data exploration & visualization (Foundational level).
+
+## Technical Skills
+Python | pandas | NumPy | scikit-learn | Matplotlib | Seaborn | Jupyter Notebook | Git  
+EDA | Data cleaning | Feature engineering | Regression | Classification
+
+## Contact
+Email:khatrashaban@gmail.com  
+Open to entry-level data analyst.
