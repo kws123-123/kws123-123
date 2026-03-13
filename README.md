@@ -3,7 +3,7 @@
 **Data Science & AI Learner** | Nairobi, Kenya
 
 - Completed 3-month Certificate in Data Science – Global Technical College  
-- Pursuing 6-month Artificial Intelligence Certificate – Digital Regenesys  
+- Pursuing 6-month Artificial Intelligence Certificate – Digital Regenesys(https://www.digitalregenesys.com/online-courses/artificial-intelligence)  
   - Foundational: Python for AI, visualizations (Seaborn/Matplotlib), EDA (Telco Churn & Bike Sales projects)  
   - Intermediate: Feature engineering & selection, regression (Insurance charges prediction), classification (Diabetes with zero-value handling)  
   - Advanced: In progress (not started yet)
